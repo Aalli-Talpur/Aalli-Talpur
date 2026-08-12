@@ -27,40 +27,64 @@
 
 ## ⚡ Tech & Tools
 
-<div align="center">
+<p align="center">
+  <i>Tools I currently use across machine learning, data analysis, databases, and development.</i>
+</p>
 
-### 💻 Languages
+<table>
+<tr>
+<td width="30%"><b>Programming</b></td>
+<td>
 
-<img src="https://skillicons.dev/icons?i=python" height="48"/>
-&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+</td>
+</tr>
 
-### 🧠 Machine Learning & Data
+<tr>
+<td><b>Machine Learning & Data</b></td>
+<td>
 
-<img src="https://skillicons.dev/icons?i=pytorch" height="48"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=sklearn" height="48"/>
-&nbsp;
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+</td>
+</tr>
 
-### ☁️ Cloud & Data Platforms
+<tr>
+<td><b>Cloud & Databases</b></td>
+<td>
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-### 🛠️ Development Tools
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="48"/>
+<tr>
+<td><b>Development</b></td>
+<td>
 
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 What I'm Learning Right Now
+
+<p align="center">
+  <i>Current priorities as I build toward applied ML and AI engineering.</i>
+</p>
 
 <table>
 <tr>
@@ -94,19 +118,34 @@
 
 ---
 
-## 🏅 Learning & Certifications
+## 📈 Building in Public
+
+<p align="center">
+  <i>Learning consistently, committing regularly, and turning concepts into practical work.</i>
+</p>
 
 <div align="center">
 
-![Microsoft](https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+### 🌱 Current Focus
 
-![IBM](https://img.shields.io/badge/IBM-Applied_Data_Science_with_Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+`Machine Learning` • `Deep Learning` • `Python` • `SQL` • `Software Engineering`
 
-![British Airways](https://img.shields.io/badge/British_Airways-Data_Science_Job_Simulation-2E5C99?style=for-the-badge)
+### 🔄 My Learning Loop
 
-![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Advanced-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+**Learn → Build → Test → Improve → Document**
 
 </div>
+
+---
+
+## 🏅 Selected Certifications
+
+| Certification | Provider | Focus |
+|---|---|---|
+| Microsoft Certified: Azure Data Fundamentals | Microsoft | Cloud data, databases & analytics |
+| Applied Data Science with Python | IBM | Python, data science & ML |
+| Data Science Job Simulation | British Airways / Forage | Applied business data science |
+| SQL Advanced | HackerRank | Advanced SQL |
 
 ---
 
