@@ -136,16 +136,6 @@
 
 </div>
 
----
-
-## 🏅 Selected Certifications
-
-| Certification | Provider | Focus |
-|---|---|---|
-| Microsoft Certified: Azure Data Fundamentals | Microsoft | Cloud data, databases & analytics |
-| Applied Data Science with Python | IBM | Python, data science & ML |
-| Data Science Job Simulation | British Airways / Forage | Applied business data science |
-| SQL Advanced | HackerRank | Advanced SQL |
 
 ---
 
