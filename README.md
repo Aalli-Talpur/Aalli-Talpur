@@ -1,102 +1,122 @@
-# Hi, I'm Aalli Talpur 👋
+<div align="center">
 
-### BSc Artificial Intelligence Student | Machine Learning • Data Science • Applied AI
+# 👋 Hi, I'm Aalli Talpur
 
-I'm currently building practical skills in **Machine Learning, Data Science, and Applied AI**, with a growing focus on how models move from data preparation and experimentation into reliable real-world systems.
+### BSc Artificial Intelligence Student
+### Machine Learning • Data Science • Applied AI
 
-I enjoy working with data, building predictive models, evaluating their performance, and continuously strengthening my software engineering and deep learning foundations.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+strong+foundations+in+Machine+Learning;Exploring+Data+Science+and+Applied+AI;Learning+PyTorch+and+Neural+Networks;Turning+data+into+useful+ML+systems" />
 
----
-
-## 🚀 Current Focus
-
-- Building end-to-end **Machine Learning projects**
-- Strengthening **Python, SQL, Scikit-learn, Pandas, and NumPy**
-- Learning **PyTorch and Neural Networks**
-- Improving **Linux, Git, and software engineering practices**
-- Exploring the path toward **Applied AI / ML Engineering**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-### Languages & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+🎓 BSc **Artificial Intelligence** student at Northumbria University
 
-### Machine Learning & Data Science
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+🤖 Focused on **Machine Learning, Data Science, and Applied AI**
+
+🧩 Interested in the full ML journey — from **data preparation and modelling** to **evaluation, software engineering, and deployment**
+
+📚 Currently strengthening my foundations in **mathematics, deep learning, Linux, and software engineering**
+
+🎯 Working toward a career in **Applied AI / Machine Learning Engineering**
+
+---
+
+## ⚡ Tech & Tools
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python" height="48"/>
+&nbsp;&nbsp;
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧠 Machine Learning & Data
+
+<img src="https://skillicons.dev/icons?i=pytorch" height="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn" height="48"/>
+&nbsp;
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### ☁️ Cloud & Data Platforms
 
----
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-## 📌 Featured Projects
+### 🛠️ Development Tools
 
-### ✈️ British Airways – Customer Booking Prediction
-Built a machine learning workflow using customer booking data to explore booking behaviour and identify important predictive features.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="48"/>
 
-**Highlights**
-- Data preprocessing and feature engineering
-- Scikit-learn pipeline
-- Random Forest classification
-- Class imbalance handling
-- Cross-validation and model evaluation
-- Feature importance analysis
-
-🔗 [View Project](https://github.com/Aalli-Talpur/British-airways-data-science-job-simulation)
+</div>
 
 ---
 
-### 🧠 IBM Employee Attrition Prediction
-Currently building an end-to-end classification project to explore and predict employee attrition.
+## 🚀 What I'm Learning Right Now
 
-**Focus**
-- Exploratory data analysis
-- Feature selection
-- Classification modelling
-- Model comparison
-- Evaluation and interpretation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> 🚧 Project currently in progress
+### 🤖 AI / Machine Learning
 
----
+- Classical Machine Learning
+- Classification & Regression
+- Feature Engineering
+- Model Evaluation
+- Neural Networks
+- PyTorch
 
-## 📊 GitHub Stats
+</td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aalli-Talpur&show_icons=true&hide_border=true&theme=transparent" />
-</p>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalli-Talpur&layout=compact&hide_border=true&theme=transparent" />
-</p>
+### 🛠️ Engineering Foundations
 
----
+- Python Software Engineering
+- Git & GitHub
+- Linux
+- SQL & Databases
+- ML Pipelines
+- Model Deployment Fundamentals
 
-## 🎯 What I'm Working Toward
-
-My long-term goal is to work in **Applied AI / Machine Learning Engineering**, combining:
-
-**Machine Learning + Data Science + Software Engineering + Deep Learning**
-
-to build reliable AI-powered systems.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Connect With Me
+## 🏅 Learning & Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miraalli-talpur/)
+<div align="center">
+
+![Microsoft](https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+![IBM](https://img.shields.io/badge/IBM-Applied_Data_Science_with_Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+![British Airways](https://img.shields.io/badge/British_Airways-Data_Science_Job_Simulation-2E5C99?style=for-the-badge)
+
+![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Advanced-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Learning by building.</i>
-</p>
+## 🌱 Current Direction
+
+```text
+Data Science
+     ↓
+Machine Learning
+     ↓
+Deep Learning
+     ↓
+Applied AI / ML Engineering
