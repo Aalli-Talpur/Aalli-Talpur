@@ -1,151 +1,112 @@
-<div align="center">
-
 # 👋 Hi, I'm Aalli Talpur
 
-### BSc Artificial Intelligence Student
-### Machine Learning • Data Science • Applied AI
+### BSc Artificial Intelligence Student @ Northumbria University
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+strong+foundations+in+Machine+Learning;Exploring+Data+Science+and+Applied+AI;Learning+PyTorch+and+Neural+Networks;Turning+data+into+useful+ML+systems" />
+**Machine Learning • Deep Learning • Applied AI**
 
-</div>
+I enjoy turning data into practical machine-learning solutions and am working toward a career in **Applied AI / Machine Learning Engineering**.
 
 ---
 
 ## 🧠 About Me
 
-🎓 BSc **Artificial Intelligence** student at Northumbria University
-
-🤖 Focused on **Machine Learning, Data Science, and Applied AI**
-
-🧩 Interested in the full ML journey — from **data preparation and modelling** to **evaluation, software engineering, and deployment**
-
-📚 Currently strengthening my foundations in **mathematics, deep learning, Linux, and software engineering**
-
-🎯 Working toward a career in **Applied AI / Machine Learning Engineering**
+- 🎓 Studying **BSc Artificial Intelligence** at Northumbria University
+- 🤖 Building practical experience across **Machine Learning and Deep Learning**
+- 📊 Experienced with data preparation, exploratory analysis, feature engineering, model training and evaluation
+- 🧠 Developing neural-network skills using **TensorFlow**
+- 🛠️ Interested in the complete AI lifecycle — from data and modelling to deployment and production systems
+- 🎯 Currently seeking opportunities to gain experience as an **AI / ML Engineering placement student**
 
 ---
 
-## ⚡ Tech & Tools
+## ⚡ Technical Skills
 
-<p align="center">
-  <i>Tools I currently use across machine learning, data analysis, databases, and development.</i>
-</p>
-
-<table>
-<tr>
-<td width="30%"><b>Programming</b></td>
-<td>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td><b>Machine Learning & Data</b></td>
-<td>
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td><b>Cloud & Databases</b></td>
-<td>
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td><b>Development</b></td>
-<td>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-</tr>
-</table>
+| Area | Technologies |
+|---|---|
+| **Programming** | Python, SQL |
+| **Machine Learning** | Scikit-learn, Regression, Classification, Feature Engineering, Model Evaluation |
+| **Deep Learning** | TensorFlow, Neural Networks, CNNs, RNNs, Autoencoders |
+| **Data** | Pandas, NumPy |
+| **Visualisation** | Matplotlib, Seaborn |
+| **Development Tools** | Git, GitHub, Jupyter Notebook, VS Code |
+| **Environment** | Linux Fundamentals |
 
 ---
 
-## 🚀 What I'm Learning Right Now
+## 🚀 Featured Projects
 
-<p align="center">
-  <i>Current priorities as I build toward applied ML and AI engineering.</i>
-</p>
+### ⚡ BCG X PowerCo — Customer Churn Analysis
+**Python • Pandas • Machine Learning • Classification • Data Analysis**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Completed a data-science job simulation investigating customer churn for an energy company.
 
-### 🤖 AI / Machine Learning
+- Performed exploratory data analysis and data preparation
+- Investigated factors associated with customer churn
+- Applied machine-learning techniques to a real-world business problem
+- Communicated findings through structured analysis
 
-- Classical Machine Learning
-- Classification & Regression
-- Feature Engineering
-- Model Evaluation
+🔗 [View Project](https://github.com/Aalli-Talpur/bcg-powerco-data-science-job-simulation)
+
+---
+
+### ✈️ British Airways — Data Science Job Simulation
+**Python • Pandas • Data Analysis • Machine Learning**
+
+Worked with airline-related data to explore how data science can support business decision-making.
+
+- Prepared and explored real-world datasets
+- Applied data-analysis and machine-learning techniques
+- Developed experience translating business problems into analytical tasks
+
+🔗 [View Project](https://github.com/Aalli-Talpur/British-airways-data-science-job-simulation)
+
+---
+
+### 🧪 Machine Learning Practice
+**Python • Pandas • NumPy • Scikit-learn • Jupyter**
+
+My ongoing repository for strengthening practical machine-learning skills through experimentation and smaller exercises.
+
+Current areas include:
+
+- Data preprocessing
+- Exploratory data analysis
+- Regression and classification
+- Feature analysis
+- Model evaluation
+- Data visualisation
+
+🔗 [View Repository](https://github.com/Aalli-Talpur/machine-learning-practice)
+
+---
+
+## 🧠 Deep Learning
+
+Recently completed the **IBM Deep Learning using TensorFlow – Advanced** learning programme.
+
+Topics covered include:
+
 - Neural Networks
-- PyTorch
+- Backpropagation
+- CNNs
+- RNNs
+- Autoencoders
+- Regression and Classification with TensorFlow
+- Model training and optimisation
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🛠️ Engineering Foundations
-
-- Python Software Engineering
-- Git & GitHub
-- Linux
-- SQL & Databases
-- ML Pipelines
-- Model Deployment Fundamentals
-
-</td>
-</tr>
-</table>
+My next goal is to turn these foundations into a **serious end-to-end Deep Learning project**.
 
 ---
 
-## 📈 Building in Public
-
-<p align="center">
-  <i>Learning consistently, committing regularly, and turning concepts into practical work.</i>
-</p>
-
-<div align="center">
-
-### 🌱 Current Focus
-
-`Machine Learning` • `Deep Learning` • `Python` • `SQL` • `Software Engineering`
-
-### 🔄 My Learning Loop
-
-**Learn → Build → Test → Improve → Document**
-
-</div>
-
-
----
-
-## 🌱 Current Direction
+## 🔨 What I'm Building Toward
 
 ```text
-Data Science
+Data Analysis
      ↓
 Machine Learning
      ↓
 Deep Learning
      ↓
-Applied AI / ML Engineering
+AI Engineering
+     ↓
+Production AI Systems
