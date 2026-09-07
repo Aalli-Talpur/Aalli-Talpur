@@ -13,7 +13,7 @@ I'm an Artificial Intelligence student building practical experience in **machin
 - 🎓 Studying **BSc Artificial Intelligence** at Northumbria University
 - 🤖 Building practical projects across **Machine Learning and Deep Learning**
 - 📊 Hands-on experience with **data preparation, exploratory analysis, feature engineering, model training, and evaluation**
-- 🧠 Developing neural-network solutions using **TensorFlow**
+- 🧠 Developing practical skills in neural networks and deep learning
 - 🛠️ Interested in the full AI lifecycle — from **data and modelling to deployment and production systems**
 - 🎯 Currently seeking a **2027 AI / Machine Learning / Data Science industrial placement**
 
@@ -25,7 +25,7 @@ I'm an Artificial Intelligence student building practical experience in **machin
 |---|---|
 | **Programming** | Python, SQL |
 | **Machine Learning** | Scikit-learn, Regression, Classification, Feature Engineering, Model Evaluation |
-| **Deep Learning** | TensorFlow, Neural Networks, CNNs, RNNs, Autoencoders |
+| **Deep Learning** | Neural Networks, CNNs, RNNs, Autoencoders |
 | **Data Analysis** | Pandas, NumPy |
 | **Visualisation** | Matplotlib, Seaborn |
 | **Development Tools** | Git, GitHub, Jupyter Notebook, VS Code |
